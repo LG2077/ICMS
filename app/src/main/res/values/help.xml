@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help" translatable="false"><![CDATA[
+
+
+<h3>IMPORTANT NOTICE</h3>
+<h4>ALLOW ALL REQUESTED PERMISSIONS</h4>
+
+<h4>HOW THE APPLICATION WORKS</h4>
+<p>Once installed in the target phone the application works by sending location of the smartphone
+when requested It also has a "tracker" feature which When
+it is activated the app periodically sends coordinates to a set number
+SMS messages are used for communication because an Internet connection may not be available
+It has two ways of determining the device coordinates
+using GPS and using mobile networks and WiFi info
+In the second case, the response SMS will include MAC addresses of Wi-Fi access points
+and to determine the location it is necessary to have this application
+and a connection the Internet on the requesting phone (not needed on the remote responding side)</p>
+
+]]>
+    </string>
+</resources>
